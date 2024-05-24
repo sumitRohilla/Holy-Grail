@@ -6,6 +6,7 @@
 
 • This is a learning project to improve understanding of Grid Layout.\
 • This website uses both Grid layout and Flex Layout to create a basic website template. \
+• This also uses media query for making website responsive on multiple screens.
 • This is created using HTML, CSS, JavaScript languages.
 
 ## FRONT-END :
